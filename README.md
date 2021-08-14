@@ -1,3 +1,9 @@
+# wiki_converter
+
+- `csv_to_wiki.py`: 한글패치 csv 파일을 shinycolors.info/wiki/의 문법에 맞게 변형합니다.  
+
+- `skill_panel.py`, `commu.py`: 하단 설명 참고  
+
 wikiwiki.sp/shinycolors의 데이터를 옮겨오기 위한 도구입니다  
 
 CLI로 실행하는 것보다 IDE에서 run하고 console output 복붙하는게 빠르고 편해 현재와 같이 제작하였습니다
